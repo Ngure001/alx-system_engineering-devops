@@ -1,2 +1,2 @@
-#!/bin/bash
-Hello, World
+#!/bon/bash
+echo "Hello, World"
